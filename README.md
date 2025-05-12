@@ -11,7 +11,8 @@ Un proyecto simple para controlar una bomba de agua mediante comandos de voz en 
 
 ### **Software**  
 - **AWS IoT Core** (para el Shadow Device)  
-- **Skill de Alexa** (para control por voz)  
+- **Skill de Alexa** (para control por voz)
+- **Alexa Backend** (El archivo se encuentra en lib/BackendAlexa)
 - **Arduino IDE / PlatformIO** (para programar el ESP32)  
 
 ## **🔧 Configuración**  
